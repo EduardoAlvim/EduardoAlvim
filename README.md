@@ -74,9 +74,9 @@ I'm constantly learning and building projects focused on data, analytics and tec
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=EduardoAlvim&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&cache_seconds=86400" alt="GitHub Stats" />
+<img height="170" src="./profile/stats.svg" alt="GitHub Stats" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoAlvim&layout=compact&langs_count=8&theme=dracula&hide_border=true&cache_seconds=86400" alt="Top Languages" />
+<img height="170" src="./profile/top-langs.svg" alt="Top Languages" />
 
 </div>
 
